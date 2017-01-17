@@ -1,0 +1,13 @@
+﻿#GridView1 {
+    width: 1200px;
+    float: left;
+}
+
+#DetailsView1 {
+    position: fixed;
+    margin-left: 650px;
+}
+
+.navbar {
+    margin-top: 20px;
+}
